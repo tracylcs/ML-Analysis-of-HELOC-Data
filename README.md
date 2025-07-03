@@ -4,7 +4,7 @@
 
 This project focuses on building an Interpretable Machine Learning (IML) model using the Home Equity Line of Credit (HELOC) dataset. The goal is to achieve high prediction accuracy while providing clear explanations for model decisions, emphasizing the importance of interpretability in financial contexts.
 
-We employed `LogisticGAM` in **Python** for modeling the data. With an 80/20 train-test split, we achieve a test accuracy of **73.37%**.
+We employed `LogisticGAM` in `pygam` for modeling the data. With an 80/20 train-test split, we achieve a test accuracy of **73.37%**.
 
 ## Home Equity Line of Credit (HELOC) Dataset
 
