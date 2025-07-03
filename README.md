@@ -30,8 +30,8 @@ To run this project, install the following Python packages:
 
 You can install the required packages using the following command:
 
-```bash
-pip install -r requirements.txt
+- ```bash
+    pip install -r requirements.txt
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
